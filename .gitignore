@@ -1,0 +1,15 @@
+# sbt / Scala
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.ammonite/
+.bloop/
+.history/
+.idea/
+.classpath
+.project
+.settings/
+.DS_Store
+.factorypath
